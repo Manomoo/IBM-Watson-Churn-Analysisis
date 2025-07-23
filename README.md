@@ -115,7 +115,7 @@ Estimated Impact: Projecting an additional 10% retention in this critical early 
 # Tools Used
 Programming Language: Python
 
-# Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy (for RandomizedSearchCV distributions)
+**Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy (for RandomizedSearchCV distributions)**
 
 Development Environment: VS Code (Jupyter Notebook)
 
