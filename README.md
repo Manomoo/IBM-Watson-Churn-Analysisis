@@ -112,10 +112,10 @@ Strategy: Enhanced Onboarding & Early Loyalty Building. Implement a "First 90 Da
 
 Estimated Impact: Projecting an additional 10% retention in this critical early period, leading to an estimated ~592% ROI by saving considerable annual revenue.
 
-Tools Used
+# Tools Used
 Programming Language: Python
 
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy (for RandomizedSearchCV distributions)
+# Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, SciPy (for RandomizedSearchCV distributions)
 
 Development Environment: VS Code (Jupyter Notebook)
 
